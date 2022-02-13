@@ -17,5 +17,5 @@
 #sed -i '$a src-git lienol https://github.com/Lienol/openwrt-package' feeds.conf.default
 
 #git clone https://github.com/gyj1109/luci-app-syncthing package/luci-app-syncthing
-#git clone https://github.com/qpmcool/openwrt-packages/ package/ssr
+git clone https://github.com/qpmcool/openwrt-passwall package/luci-app-passwall
 #git clone https://github.com/kenzok8/small package/ssr-d
